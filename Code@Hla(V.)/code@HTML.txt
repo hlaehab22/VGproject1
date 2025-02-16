@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+        
+        <head>
+          <link rel="stylesheet" type="text/css" href="css/Hstyles.css">
+
+         <title> Tennis </title>
+        </head>
+
+        <body>
+         
+         <img src="Image/T.jpeg" width="400" height="250" >
+            <div>
+             
+              
+              <h1> Starting to practice Tennis </h1>
+      	          
+              <p>To start playing tennis, you need to understand the basic rules and techniques. Begin by learning how to hold the racket and practice key strokes like the forehand, backhand, serve, and volley. It’s helpful to watch tutorials or take lessons from a coach. Practice regularly on a tennis court, focusing on improving consistency and building your fitness. Playing with others will improve your skills and help you learn match strategies. Stay patient, warm up before playing, and have fun as you improve.
+              </p>
+            </div>
+            
+              <h2> Equipment needed </h2>
+                  
+              <ol>
+                  <li>Tennis racket</li>
+                  <li>Tennis balls</li>
+                  <li>Athletic clothing</li>
+                  <li>Tennis shoes with good grip</li>
+              </ol>
+              
+            
+            </body>
+</html>
+
